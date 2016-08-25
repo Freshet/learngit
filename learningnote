@@ -1,0 +1,3 @@
+Git删除repository
+	使用rm -rf .git 删除库
+	可再使用rmdir xx删除文件夹
